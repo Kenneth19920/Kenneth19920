@@ -33,8 +33,7 @@
 
 
 
-<table width: "100%";
-    border-collapse: "collapse" >
+<table width: "100%" border-collapse: "collapse" >
   <tr>
     <td colspan="2">
       <h3></h3>
