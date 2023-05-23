@@ -21,12 +21,32 @@
 
 <h2 align="center">Conocimiento</h2>
 
-| Lenguaje/ Herramienta | Nivel |
+| Lenguajes | Nivel |
 | -------------------- | ------|
-| Python               | ⭐⭐⭐⭐⭐ |
-| JavaScript           | ⭐⭐⭐⭐  |
-| Java                 | ⭐⭐⭐   |
-| HTML/CSS             | ⭐⭐⭐⭐  |
+| C++                  | ⭐⭐⭐⭐⭐ |
+| Java                 | ⭐⭐⭐⭐  |
+| Php                  | ⭐⭐⭐   |
+| Dart                 | ⭐⭐⭐   |
+| JavaScript           | ⭐⭐⭐   |
+| Python               | ⭐⭐⭐   |
+| HTML/CSS             | ⭐⭐⭐⭐  | 
+
+| Framework | Nivel |
+| -------------------- | ------|
+| .Net                 | ⭐⭐⭐⭐⭐ |
+| .Net Franmework      | ⭐⭐⭐⭐  |
+| React                | ⭐⭐⭐   |
+| Spring boot          | ⭐⭐⭐   |
+| Flutter              | ⭐⭐⭐   |
+
+| Base de Datos | Nivel |
+| -------------------- | ------|
+| MySql                | ⭐⭐⭐⭐⭐ |
+| SqlServer            | ⭐⭐⭐⭐⭐ |
+| Oracle               | ⭐⭐⭐   |
+| Spring boot          | ⭐⭐⭐   |
+| Cloud                | ⭐⭐  |
+
 
 
 
