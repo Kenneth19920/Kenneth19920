@@ -10,8 +10,8 @@
 
 <h2 align="center"></h2>
 <h3 align="center">Explorando pasiones y habilidades:</h3>
-
-
+<br>
+<br>
 
 - 🎓 Actualmente estudio Ingeniería en Sistemas de Computación en la Universidad Fidelitas. 
 - 🌐 Me encantaría explorar el emocionante mundo del desarrollo fullstack para ampliar mis habilidades en programación. 💪
