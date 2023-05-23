@@ -2,7 +2,7 @@
 
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
-<img src="![image](https://github.com/Kenneth19920/Kenneth19920/assets/91219301/7fc437b5-177f-4c6f-85c7-0167a82a2582)" >
+<img src="https://i0.wp.com/windowsaplicaciones.com/wp-content/uploads/2019/04/Gifs-Animados-en-Windows-10.gif?fit=641%2C362&ssl=1" >
 
 </br>
 
