@@ -21,7 +21,6 @@
 
 <h2 align="center">Conocimiento</h2>
 
-
 <div align="center">
 
 | Áreas           | Nivel |
@@ -31,7 +30,7 @@
 | Ciberseguridad | ⭐⭐⭐⭐   |
 | Gestión        | ⭐⭐⭐⭐   |
 
-
+| Lenguajes          | Nivel |
 | ---------- | ------|
 | C++        | ⭐⭐⭐⭐⭐ |
 | Java       | ⭐⭐⭐⭐  |
