@@ -13,7 +13,6 @@
 
 
 <h2 align="center">Pasiones y Estudios 💻🌐</h2>
-🎨 R<span style="color:#FF0000">E</span>A<span style="color:#FFA500">M</span>E<span style="color:#FFFF00">-</span><span style="color:#008000">G</span><span style="color:#0000FF">I</span><span style="color:#8B00FF">T</span></span>:<span style="color:#FF0000"> Título con Colores**</span>
 <br>
 <br>
 
