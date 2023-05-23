@@ -31,14 +31,6 @@
 | Ciberseguridad | ⭐⭐⭐⭐   |
 | Gestión        | ⭐⭐⭐⭐   |
 
-<div align="center">
-
-| Áreas           | Nivel |
-| -------------- | :------: |
-| Programación   | ⭐⭐⭐⭐⭐ |
-| Redes          | ⭐⭐⭐⭐ |
-| Ciberseguridad | ⭐⭐⭐⭐   |
-| Gestión        | ⭐⭐⭐⭐   |
 
 
 <table>
