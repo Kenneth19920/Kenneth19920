@@ -34,7 +34,7 @@
 
 <table >
   <tr>
-    <td colspan="4">
+    <td colspan="3">
       <h3></h3>
       <table>
        <tr>
@@ -51,7 +51,7 @@
             </tr>
       </table>
     </td>
-    <td colspan="4">
+    <td colspan="3">
       <h3></h3>
       <table>
          <tr>
@@ -70,7 +70,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4">
+    <td colspan="3">
       <h3></h3>
       <table>
         <tr>
@@ -87,7 +87,7 @@
             </tr>
       </table>
     </td>
-    <td colspan="4">
+    <td colspan="3">
       <h3></h3>
       <table>
         <tr>
