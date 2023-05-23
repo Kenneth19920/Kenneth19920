@@ -31,9 +31,19 @@
 | Ciberseguridad | ⭐⭐⭐⭐   |
 | Gestión        | ⭐⭐⭐⭐   |
 
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
 
+  th, td {
+    padding: 8px;
+    text-align: center;
+  }
+</style>
 
-<table width: "100%" border-collapse: "collapse" >
+<table >
   <tr>
     <td colspan="2">
       <h3></h3>
