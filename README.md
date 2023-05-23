@@ -20,7 +20,7 @@
     <tr>
       <th>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=electromilitary45&show_icons=true&theme=radical" width="500"/>
+          <img  src="https://github-readme-stats.vercel.app/api?username=electromilitary45&show_icons=true&theme=radical" width="400" />
         </a>
       </th>
       <th>
