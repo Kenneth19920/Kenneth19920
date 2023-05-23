@@ -20,6 +20,7 @@
 
 <b> ¡Estoy emocionado por las oportunidades que me esperan y ansioso por seguir aprendiendo y creciendo en estos campos! 💡🚀 </b>
 
+<h2 align="center"></h2>
 
 [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
