@@ -2,8 +2,7 @@
 
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
-<img src="![Negro Blanco Rojo Simple Minimalista Formas Geométricas Presentación Tecnología Banner para LinkedIn](https://github.com/Kenneth19920/Kenneth19920/assets/91219301/b34c2aff-cbcb-4815-9f8a-63e19f4274fc)
-" >
+<img src="https://images.hive.blog/p/4i88GgaV8qiFkxbnGCXnHPUK3daVLCQA4oDc4ixremQTf5Q5g6iHgYaAG46jzfzqmNNfgS65Hbczhy3KgubRkZTQ5LSMSVprppMLX1qGXpAL5uSBe7FgzfWCCM?format=match&mode=fit" >
 
 </br>
 
