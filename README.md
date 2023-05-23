@@ -33,19 +33,19 @@
 
 
 <table >
-  <tr text-align: "center">
-    <td colspan="2" text-align: "center">
+  <tr>
+    <td colspan="2">
       <h3></h3>
       <table>
-       <tr text-align: "center">
+       <tr>
                 <th>Lenguaje</th>
                 <th>Nivel</th>
             </tr>
-            <tr text-align: "center">
+            <tr>
                 <td>C++</td>
                 <td>⭐⭐⭐⭐⭐</td>
             </tr>
-            <tr text-align: "center">
+            <tr>
                 <td>Java</td>
                 <td>⭐⭐⭐⭐</td>
             </tr>
@@ -54,15 +54,15 @@
     <td colspan="2">
       <h3></h3>
       <table>
-         <tr text-align: "center">
+         <tr>
                 <th>Framework</th>
                 <th>Nivel</th>
             </tr>
-            <tr text-align: "center">
+            <tr>
                 <td>.Net</td>
                 <td>⭐⭐⭐⭐⭐</td>
             </tr>
-            <tr text-align: "center">
+            <tr>
                 <td>React</td>
                 <td>⭐⭐⭐</td>
             </tr>
