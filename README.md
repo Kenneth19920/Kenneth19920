@@ -30,40 +30,23 @@
 | Ciberseguridad | ⭐⭐⭐⭐   |
 | Gestión        | ⭐⭐⭐⭐   |
 
-| Lenguajes          | Nivel |
-| ---------- | ------|
-| C++        | ⭐⭐⭐⭐⭐ |
-| Java       | ⭐⭐⭐⭐  |
-| Php        | ⭐⭐⭐   |
-| Dart       | ⭐⭐⭐   |
-| JavaScript | ⭐⭐⭐   |
-| Python     | ⭐⭐⭐   |
-| HTML/CSS   | ⭐⭐⭐⭐  | 
+| Lenguajes    | Nivel | Framework      | Nivel |
+| ------------ | ------| -------------- | ------|
+| C++          | ⭐⭐⭐⭐⭐ | .Net           | ⭐⭐⭐⭐⭐ |
+| Java         | ⭐⭐⭐⭐  | .Net Framework | ⭐⭐⭐⭐  |
+| Php          | ⭐⭐⭐   | React          | ⭐⭐⭐   |
+| Dart         | ⭐⭐⭐   | Spring boot    | ⭐⭐⭐   |
+| JavaScript   | ⭐⭐⭐   | Flutter        | ⭐⭐⭐   |
+| Python       | ⭐⭐⭐   |                |       |
+| HTML/CSS     | ⭐⭐⭐⭐  |                |       |
 
-
-| Framework      | Nivel |
-| -------------- | ------|
-| .Net           | ⭐⭐⭐⭐⭐ |
-| .Net Framework | ⭐⭐⭐⭐  |
-| React          | ⭐⭐⭐   |
-| Spring boot    | ⭐⭐⭐   |
-| Flutter        | ⭐⭐⭐   |
-
-| Base de Datos | Nivel |
-| ------------- | ------|
-| MySql         | ⭐⭐⭐⭐⭐ |
-| SqlServer     | ⭐⭐⭐⭐⭐ |
-| Oracle        | ⭐⭐⭐   |
-| Spring boot   | ⭐⭐⭐   |
-| Cloud         | ⭐⭐  |
-
-
-| Tipos Proyectos | Nivel |
-| -------------- | ------|
-| Webs           | ⭐⭐⭐⭐⭐ |
-| Consola        | ⭐⭐⭐⭐⭐ |
-| Video Juegos   | ⭐⭐⭐   |
-| Android        | ⭐⭐⭐   |
+| Base de Datos | Nivel | Tipos Proyectos | Nivel |
+| ------------- | ------| -------------- | ------|
+| MySql         | ⭐⭐⭐⭐⭐ | Webs           | ⭐⭐⭐⭐⭐ |
+| SqlServer     | ⭐⭐⭐⭐⭐ | Consola        | ⭐⭐⭐⭐⭐ |
+| Oracle        | ⭐⭐⭐   | Video Juegos   | ⭐⭐⭐   |
+| Spring boot   | ⭐⭐⭐   | Android        | ⭐⭐⭐   |
+| Cloud         | ⭐⭐  |                |       |
 
 
 </div>
