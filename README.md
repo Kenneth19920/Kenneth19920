@@ -31,13 +31,14 @@
 | Python               | ⭐⭐⭐   |
 | HTML/CSS             | ⭐⭐⭐⭐  | 
 
-| Framework | Nivel |
+| Frameworks | Nivel |
 | -------------------- | ------|
 | .Net                 | ⭐⭐⭐⭐⭐ |
 | .Net Franmework      | ⭐⭐⭐⭐  |
 | React                | ⭐⭐⭐   |
 | Spring boot          | ⭐⭐⭐   |
 | Flutter              | ⭐⭐⭐   |
+| Scrum*               | ⭐⭐⭐⭐  |
 
 | Base de Datos | Nivel |
 | -------------------- | ------|
@@ -46,6 +47,23 @@
 | Oracle               | ⭐⭐⭐   |
 | Spring boot          | ⭐⭐⭐   |
 | Cloud                | ⭐⭐  |
+
+| Tipos Proyectos | Nivel |
+| -------------------- | ------|
+| Webs                 | ⭐⭐⭐⭐⭐ |
+| Consola              | ⭐⭐⭐⭐⭐ |
+| Video Juegos         | ⭐⭐⭐   |
+| Android              | ⭐⭐⭐   |
+
+| Areas | Nivel |
+| -------------------- | ------|
+| Programacion         | ⭐⭐⭐⭐⭐ |
+| Redes                | ⭐⭐⭐⭐ |
+| CiberSeguridad       | ⭐⭐⭐⭐   |
+| Gestion              | ⭐⭐⭐⭐   |
+
+
+
 
 
 
