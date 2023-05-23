@@ -21,6 +21,17 @@
 
 <h2 align="center">Conocimiento</h2>
 
+<div align="center">
+
+| Áreas           | Nivel |
+| -------------- | :------: |
+| Programación   | ⭐⭐⭐⭐⭐ |
+| Redes          | ⭐⭐⭐⭐ |
+| Ciberseguridad | ⭐⭐⭐⭐   |
+| Gestión        | ⭐⭐⭐⭐   |
+
+</div>
+
 
 
 | Lenguaje   | Nivel |
@@ -59,12 +70,6 @@
 | Android        | ⭐⭐⭐   |
 
 
-| Áreas          | Nivel |
-| -------------- | ------|
-| Programación   | ⭐⭐⭐⭐⭐ |
-| Redes          | ⭐⭐⭐⭐ |
-| Ciberseguridad | ⭐⭐⭐⭐   |
-| Gestión        | ⭐⭐⭐⭐   |
 
 
 
