@@ -3,7 +3,7 @@
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
 
-<img src="https://i.pinimg.com/originals/bf/b9/4e/bfb94e54c45afd24384db5ad32d71d15.gif" width="800" height="400" >
+<img src="https://i.pinimg.com/originals/bf/b9/4e/bfb94e54c45afd24384db5ad32d71d15.gif" width="1000" height="300" >
 
 
 </br>
