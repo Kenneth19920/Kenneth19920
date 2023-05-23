@@ -31,9 +31,20 @@
 | Gestión        | ⭐⭐⭐⭐   |
 
 
+<div align="center">
+
+| Áreas           | Nivel |
+| -------------- | :------: |
+| Programación   | ⭐⭐⭐⭐⭐ |
+| Redes          | ⭐⭐⭐⭐ |
+| Ciberseguridad | ⭐⭐⭐⭐   |
+| Gestión        | ⭐⭐⭐⭐   |
+
+
 <table>
   <tr>
-    <td colspan="2">   
+    <td colspan="2">
+      <h3>Lenguajes</h3>
       <table>
        <tr>
                 <th>Lenguaje</th>
@@ -50,7 +61,7 @@
       </table>
     </td>
     <td colspan="2">
-  
+      <h3>Frameworks</h3>
       <table>
          <tr>
                 <th>Framework</th>
@@ -69,7 +80,7 @@
   </tr>
   <tr>
     <td colspan="2">
-  
+      <h3>Base de Datos</h3>
       <table>
         <tr>
                 <th>Base de Datos</th>
@@ -86,7 +97,7 @@
       </table>
     </td>
     <td colspan="2">
-
+      <h3>Tipos de Proyectos</h3>
       <table>
         <tr>
                 <th>Tipos Proyectos</th>
