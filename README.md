@@ -22,16 +22,49 @@
 <h2 align="center">Conocimiento</h2>
 
 
-| Lenguajes      | Nivel | Frameworks        | Nivel | Base de Datos | Nivel | Tipos Proyectos | Nivel | Areas           | Nivel |
-| -------------- | ------| ----------------- | ------| ------------- | ------| --------------- | ------| --------------- | ------|
-| C++            | ⭐⭐⭐⭐⭐ | .Net              | ⭐⭐⭐⭐⭐ | MySql         | ⭐⭐⭐⭐⭐ | Webs            | ⭐⭐⭐⭐⭐ | Programacion    | ⭐⭐⭐⭐⭐ |
-| Java           | ⭐⭐⭐⭐  | .Net Framework    | ⭐⭐⭐⭐  | SqlServer     | ⭐⭐⭐⭐⭐ | Consola         | ⭐⭐⭐⭐⭐ | Redes           | ⭐⭐⭐⭐ |
-| Php            | ⭐⭐⭐   | React             | ⭐⭐⭐   | Oracle        | ⭐⭐⭐   | Video Juegos    | ⭐⭐⭐   | CiberSeguridad  | ⭐⭐⭐⭐ |
-| Dart           | ⭐⭐⭐   | Spring boot       | ⭐⭐⭐   | Spring boot   | ⭐⭐⭐   | Android         | ⭐⭐⭐   | Gestion         | ⭐⭐⭐⭐ |
-| JavaScript     | ⭐⭐⭐   | Flutter           | ⭐⭐⭐   | Cloud         | ⭐⭐    |                 |        |                 |       |
-| Python         | ⭐⭐⭐   |                   |        |               |        |                 |        |                 |       |
-| HTML/CSS       | ⭐⭐⭐⭐  |                   |        |               |        |                 |        |                 |       |
 
+| Lenguaje   | Nivel |
+| ---------- | ------|
+| C++        | ⭐⭐⭐⭐⭐ |
+| Java       | ⭐⭐⭐⭐  |
+| Php        | ⭐⭐⭐   |
+| Dart       | ⭐⭐⭐   |
+| JavaScript | ⭐⭐⭐   |
+| Python     | ⭐⭐⭐   |
+| HTML/CSS   | ⭐⭐⭐⭐  | 
+
+
+| Framework      | Nivel |
+| -------------- | ------|
+| .Net           | ⭐⭐⭐⭐⭐ |
+| .Net Framework | ⭐⭐⭐⭐  |
+| React          | ⭐⭐⭐   |
+| Spring boot    | ⭐⭐⭐   |
+| Flutter        | ⭐⭐⭐   |
+
+| Base de Datos | Nivel |
+| ------------- | ------|
+| MySql         | ⭐⭐⭐⭐⭐ |
+| SqlServer     | ⭐⭐⭐⭐⭐ |
+| Oracle        | ⭐⭐⭐   |
+| Spring boot   | ⭐⭐⭐   |
+| Cloud         | ⭐⭐  |
+
+
+| Tipos Proyectos | Nivel |
+| -------------- | ------|
+| Webs           | ⭐⭐⭐⭐⭐ |
+| Consola        | ⭐⭐⭐⭐⭐ |
+| Video Juegos   | ⭐⭐⭐   |
+| Android        | ⭐⭐⭐   |
+
+
+| Áreas          | Nivel |
+| -------------- | ------|
+| Programación   | ⭐⭐⭐⭐⭐ |
+| Redes          | ⭐⭐⭐⭐ |
+| Ciberseguridad | ⭐⭐⭐⭐   |
+| Gestión        | ⭐⭐⭐⭐   |
 
 
 
