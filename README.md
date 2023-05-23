@@ -8,6 +8,7 @@
 
 </br>
 
+<h2 align="center"></h2>
 <h3 align="center">Explorando pasiones y habilidades:</h3>
 
 
