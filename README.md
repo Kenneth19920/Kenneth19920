@@ -2,7 +2,7 @@
 
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
-<img src="https://images.hive.blog/p/4i88GgaV8qiFkxbnGCXnHPUK3daVLCQA4oDc4ixremQTf5Q5g6iHgYaAG46jzfzqmNNfgS65Hbczhy3KgubRkZTQ5LSMSVprppMLX1qGXpAL5uSBe7FgzfWCCM?format=match&mode=fit" >
+<img src="[https://images.hive.blog/p/4i88GgaV8qiFkxbnGCXnHPUK3daVLCQA4oDc4ixremQTf5Q5g6iHgYaAG46jzfzqmNNfgS65Hbczhy3KgubRkZTQ5LSMSVprppMLX1qGXpAL5uSBe7FgzfWCCM?format=match&mode=fit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.mx%2Fpin%2F290060032262642856%2F&psig=AOvVaw2W2-cwVhI9c9DUFlmPZ6kt&ust=1684895408908000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLim-tWyiv8CFQAAAAAdAAAAABAJ)" >
 
 </br>
 
