@@ -31,14 +31,24 @@
 | Ciberseguridad | ⭐⭐⭐⭐   |
 | Gestión        | ⭐⭐⭐⭐   |
 
+<div align="center">
+
+| Áreas           | Nivel |
+| -------------- | :------: |
+| Programación   | ⭐⭐⭐⭐⭐ |
+| Redes          | ⭐⭐⭐⭐ |
+| Ciberseguridad | ⭐⭐⭐⭐   |
+| Gestión        | ⭐⭐⭐⭐   |
+
+
 <table>
   <tr>
     <td colspan="2">
-    
+      <h3></h3>
       <table>
        <tr>
-              <th>Lenguaje</th>
-              <th>Nivel</th>
+                <th>Lenguaje</th>
+                <th>Nivel</th>
             </tr>
             <tr>
                 <td>C++</td>
@@ -51,7 +61,7 @@
       </table>
     </td>
     <td colspan="2">
-   
+      <h3></h3>
       <table>
          <tr>
                 <th>Framework</th>
@@ -70,7 +80,7 @@
   </tr>
   <tr>
     <td colspan="2">
-  
+      <h3></h3>
       <table>
         <tr>
                 <th>Base de Datos</th>
@@ -87,7 +97,7 @@
       </table>
     </td>
     <td colspan="2">
-      
+      <h3></h3>
       <table>
         <tr>
                 <th>Tipos Proyectos</th>
