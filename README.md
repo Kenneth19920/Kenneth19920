@@ -49,6 +49,27 @@
                 <td>Java</td>
                 <td>⭐⭐⭐⭐</td>
             </tr>
+            <tr>
+                <td>Php</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+             <tr>
+                <td>Dart</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>JavaScript </td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Python </td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+           <tr>
+                <td>HTML/CSS </td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+       
       </table>
     </td>
     <td colspan="3">
