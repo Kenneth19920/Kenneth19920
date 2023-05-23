@@ -34,15 +34,81 @@
 
 
 
-| Lenguajes      | Nivel | Frameworks        | Nivel | Base de Datos | Nivel | Tipos Proyectos | Nivel |
-| -------------- | ------| ----------------- | ------| ------------- | ------| --------------- | ------|
-| C++            | ⭐⭐⭐⭐⭐ | .Net              | ⭐⭐⭐⭐⭐ | MySql         | ⭐⭐⭐⭐⭐ | Webs            | ⭐⭐⭐⭐⭐ |
-| Java           | ⭐⭐⭐⭐  | .Net Framework    | ⭐⭐⭐⭐  | SqlServer     | ⭐⭐⭐⭐⭐ | Consola         | ⭐⭐⭐⭐⭐ |
-| Php            | ⭐⭐⭐   | React             | ⭐⭐⭐   | Oracle        | ⭐⭐⭐   | Video Juegos    | ⭐⭐⭐   |
-| Dart           | ⭐⭐⭐   | Spring boot       | ⭐⭐⭐   | Spring boot   | ⭐⭐⭐   | Android         | ⭐⭐⭐   |
-| JavaScript     | ⭐⭐⭐   | Flutter           | ⭐⭐⭐   | Cloud         | ⭐⭐    |                 |        |
-| Python         | ⭐⭐⭐   |                   |        |               |        |                 |        |
-| HTML/CSS       | ⭐⭐⭐⭐  |                   |        |               |        |                 |        |
+<div style="display: grid; grid-template-columns: repeat(5, 1fr);">
+    <div>
+        <h3>Lenguajes</h3>
+        <table>
+            <tr>
+                <th>Lenguaje</th>
+                <th>Nivel</th>
+            </tr>
+            <tr>
+                <td>C++</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+            <!-- Resto de las filas para lenguajes -->
+        </table>
+    </div>
+    <div>
+        <h3>Frameworks</h3>
+        <table>
+            <tr>
+                <th>Framework</th>
+                <th>Nivel</th>
+            </tr>
+            <tr>
+                <td>.Net</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>React</td>
+                <td>⭐⭐⭐</td>
+            </tr>
+            <!-- Resto de las filas para frameworks -->
+        </table>
+    </div>
+    <div>
+        <h3>Base de Datos</h3>
+        <table>
+            <tr>
+                <th>Base de Datos</th>
+                <th>Nivel</th>
+            </tr>
+            <tr>
+                <td>MySql</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Oracle</td>
+                <td>⭐⭐⭐</td>
+            </tr>
+            <!-- Resto de las filas para bases de datos -->
+        </table>
+    </div>
+    <div>
+        <h3>Tipos Proyectos</h3>
+        <table>
+            <tr>
+                <th>Tipos Proyectos</th>
+                <th>Nivel</th>
+            </tr>
+            <tr>
+                <td>Webs</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Video Juegos</td>
+                <td>⭐⭐⭐</td>
+            </tr>
+            <!-- Resto de las filas para tipos de proyectos -->
+        </table>
+    </div>
+</div>
+
 
 
 
