@@ -33,12 +33,12 @@
 </div>
 
 
-
-<div style="display: grid; grid-template-columns: repeat(5, 1fr);">
-    <div>
-        <h3>Lenguajes</h3>
-        <table>
-            <tr>
+<table>
+  <tr>
+    <td colspan="2">
+      <h3>Lenguajes</h3>
+      <table>
+       <tr>
                 <th>Lenguaje</th>
                 <th>Nivel</th>
             </tr>
@@ -50,13 +50,12 @@
                 <td>Java</td>
                 <td>⭐⭐⭐⭐</td>
             </tr>
-            <!-- Resto de las filas para lenguajes -->
-        </table>
-    </div>
-    <div>
-        <h3>Frameworks</h3>
-        <table>
-            <tr>
+      </table>
+    </td>
+    <td colspan="2">
+      <h3>Frameworks</h3>
+      <table>
+         <tr>
                 <th>Framework</th>
                 <th>Nivel</th>
             </tr>
@@ -68,13 +67,14 @@
                 <td>React</td>
                 <td>⭐⭐⭐</td>
             </tr>
-            <!-- Resto de las filas para frameworks -->
-        </table>
-    </div>
-    <div>
-        <h3>Base de Datos</h3>
-        <table>
-            <tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>Base de Datos</h3>
+      <table>
+        <tr>
                 <th>Base de Datos</th>
                 <th>Nivel</th>
             </tr>
@@ -86,13 +86,12 @@
                 <td>Oracle</td>
                 <td>⭐⭐⭐</td>
             </tr>
-            <!-- Resto de las filas para bases de datos -->
-        </table>
-    </div>
-    <div>
-        <h3>Tipos Proyectos</h3>
-        <table>
-            <tr>
+      </table>
+    </td>
+    <td colspan="2">
+      <h3>Tipos de Proyectos</h3>
+      <table>
+        <tr>
                 <th>Tipos Proyectos</th>
                 <th>Nivel</th>
             </tr>
@@ -104,10 +103,13 @@
                 <td>Video Juegos</td>
                 <td>⭐⭐⭐</td>
             </tr>
-            <!-- Resto de las filas para tipos de proyectos -->
-        </table>
-    </div>
-</div>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
