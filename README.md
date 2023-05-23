@@ -32,7 +32,7 @@
 | Ciberseguridad | ⭐⭐⭐⭐   |
 | Gestión        | ⭐⭐⭐⭐   |
 
-| Lenguajes    | Nivel | Framework      | Nivel |
+| Lenguajes    | Nivel | Frameworks      | Nivel |
 | ------------ | ------| -------------- | ------|
 | C++          | ⭐⭐⭐⭐⭐ | .Net           | ⭐⭐⭐⭐⭐ |
 | Java         | ⭐⭐⭐⭐  | .Net Framework | ⭐⭐⭐⭐  |
