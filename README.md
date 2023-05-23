@@ -13,7 +13,7 @@
 
 
 <h2 align="center">Pasiones y Estudios:</h2>
-<br>
+
 
 - 🎓 Actualmente estudio Ingeniería en Sistemas de Computación en la Universidad Fidelitas. 
 - 🌐 Me encantaría explorar el emocionante mundo del desarrollo fullstack para ampliar mis habilidades en programación. 💪
@@ -52,9 +52,6 @@
 
 
 </div>
-
-
-
 
 
 <h2 align="center">Redes Sociales</h2>
