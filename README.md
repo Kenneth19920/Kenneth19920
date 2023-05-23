@@ -2,13 +2,15 @@
 
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
-<p align="center">
- <img width="350" src="https://i.imgur.com/0kvtMLE.gif" align="center"/>
-</p>
-
 <br>
 <b> 💡¡Estoy emocionado por las oportunidades que me esperan y ansioso por seguir aprendiendo y creciendo en estos campos! 🚀 </b>
 <br>
+
+<p align="center">
+ <img width="350" heigth="150" src="https://i.imgur.com/0kvtMLE.gif" align="center"/>
+</p>
+
+
 
 <h2 align="center"></h2>
 <h3 align="center">Explorando pasiones y habilidades:</h3>
