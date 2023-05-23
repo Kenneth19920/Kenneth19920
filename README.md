@@ -22,7 +22,7 @@
 
 <h2 align="center"></h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kenneth_alvaradom-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kenneth-alvaradom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth Alvarado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kenneth-alvaradom)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@devexperto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://devexperto.com/instagram)
 [![Twitter](https://img.shields.io/badge/Twitter-@devexperto1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://devexperto.com/twitter)
