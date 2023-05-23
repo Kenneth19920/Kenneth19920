@@ -21,11 +21,13 @@
 
 <h2 align="center">Conocimiento</h2>
 
-Lenguajes de Programación:
-- Python   ████████░░░░░░░░░░░░░░░░░
-- JavaScript   ██████████████░░░░░░░░
-- Java   ██████░░░░░░░░░░░░░░░░░░░
-- HTML/CSS   ███████████░░░░░░░░░░░
+| Lenguaje/ Herramienta | Nivel |
+| -------------------- | ------|
+| Python               | ⭐⭐⭐⭐⭐ |
+| JavaScript           | ⭐⭐⭐⭐  |
+| Java                 | ⭐⭐⭐   |
+| HTML/CSS             | ⭐⭐⭐⭐  |
+
 
 
 <h2 align="center">Redes Sociales</h2>
