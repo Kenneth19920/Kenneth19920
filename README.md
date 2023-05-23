@@ -2,9 +2,9 @@
 
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
-<div style="display: flex; justify-content: center;">
-<img src="https://i.pinimg.com/originals/bf/b9/4e/bfb94e54c45afd24384db5ad32d71d15.gif" >
-</div>
+
+<img  align="center"src="https://i.pinimg.com/originals/bf/b9/4e/bfb94e54c45afd24384db5ad32d71d15.gif" >
+
 
 </br>
 
