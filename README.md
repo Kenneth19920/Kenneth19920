@@ -33,11 +33,11 @@
 
 
 <table >
-  <tr>
+  <tr text-align: "center">
     <td colspan="2" text-align: "center">
       <h3></h3>
       <table>
-       <tr>
+       <tr >
                 <th>Lenguaje</th>
                 <th>Nivel</th>
             </tr>
