@@ -24,4 +24,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth_Alvarado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kenneth-alvaradom)
 [![Instagram](https://img.shields.io/badge/Instagram-@kennethalmar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/kennethalmar/)
-[![Facebook](https://img.shields.io/badge/Twitter-@Kenneth_Alvarado-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/kenneth.alvarado.39/)
+[![Facebook](https://img.shields.io/badge/Facebook-@Kenneth_Alvarado-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/kenneth.alvarado.39/)
