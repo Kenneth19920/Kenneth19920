@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<b> ¡Estoy emocionado por las oportunidades que me esperan y ansioso por seguir aprendiendo y creciendo en estos campos! 💡🚀 </b>
+<b> 💡¡Estoy emocionado por las oportunidades que me esperan y ansioso por seguir aprendiendo y creciendo en estos campos!🚀 </b>
 <br>
 
 <h2 align="center"></h2>
