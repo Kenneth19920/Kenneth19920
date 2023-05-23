@@ -2,7 +2,8 @@
 
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
-<img src="https://www.pinterest.com.mx/pin/290060032262642856/" >
+<img src="![Negro Blanco Rojo Simple Minimalista Formas Geométricas Presentación Tecnología Banner para LinkedIn](https://github.com/Kenneth19920/Kenneth19920/assets/91219301/b34c2aff-cbcb-4815-9f8a-63e19f4274fc)
+" >
 
 </br>
 
@@ -31,7 +32,6 @@
 </table> entiendes este ejemplo
 
 
-[![Web](https://img.shields.io/badge/Mi_Sitio_Web-devexperto.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://devexperto.com)
 [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
 [![Instagram](https://img.shields.io/badge/Instagram-@devexperto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://devexperto.com/instagram)
