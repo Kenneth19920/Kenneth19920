@@ -32,102 +32,39 @@
 | Gestión        | ⭐⭐⭐⭐   |
 
 
-<table >
-  <tr>
-    <td colspan="7">
-      <h3></h3>
-      <table>
-       <tr>
-                <th>Lenguaje</th>
-                <th>Nivel</th>
-            </tr>
-            <tr>
-                <td>C++</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>Java</td>
-                <td>⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>Php</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-             <tr>
-                <td>Dart</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>JavaScript </td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>Python </td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-           <tr>
-                <td>HTML/CSS </td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-       
-      </table>
-    </td>
-    <td colspan="3">
-      <h3></h3>
-      <table>
-         <tr>
-                <th>Framework</th>
-                <th>Nivel</th>
-            </tr>
-            <tr>
-                <td>.Net</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>React</td>
-                <td>⭐⭐⭐</td>
-            </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <h3></h3>
-      <table>
-        <tr>
-                <th>Base de Datos</th>
-                <th>Nivel</th>
-            </tr>
-            <tr>
-                <td>MySql</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>Oracle</td>
-                <td>⭐⭐⭐</td>
-            </tr>
-      </table>
-    </td>
-    <td colspan="3">
-      <h3></h3>
-      <table>
-        <tr>
-                <th>Tipos Proyectos</th>
-                <th>Nivel</th>
-            </tr>
-            <tr>
-                <td>Webs</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>Video Juegos</td>
-                <td>⭐⭐⭐</td>
-            </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+| ---------- | ------|
+| C++        | ⭐⭐⭐⭐⭐ |
+| Java       | ⭐⭐⭐⭐  |
+| Php        | ⭐⭐⭐   |
+| Dart       | ⭐⭐⭐   |
+| JavaScript | ⭐⭐⭐   |
+| Python     | ⭐⭐⭐   |
+| HTML/CSS   | ⭐⭐⭐⭐  | 
 
+
+| Framework      | Nivel |
+| -------------- | ------|
+| .Net           | ⭐⭐⭐⭐⭐ |
+| .Net Framework | ⭐⭐⭐⭐  |
+| React          | ⭐⭐⭐   |
+| Spring boot    | ⭐⭐⭐   |
+| Flutter        | ⭐⭐⭐   |
+
+| Base de Datos | Nivel |
+| ------------- | ------|
+| MySql         | ⭐⭐⭐⭐⭐ |
+| SqlServer     | ⭐⭐⭐⭐⭐ |
+| Oracle        | ⭐⭐⭐   |
+| Spring boot   | ⭐⭐⭐   |
+| Cloud         | ⭐⭐  |
+
+
+| Tipos Proyectos | Nivel |
+| -------------- | ------|
+| Webs           | ⭐⭐⭐⭐⭐ |
+| Consola        | ⭐⭐⭐⭐⭐ |
+| Video Juegos   | ⭐⭐⭐   |
+| Android        | ⭐⭐⭐   |
 
 
 </div>
