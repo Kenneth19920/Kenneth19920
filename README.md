@@ -34,40 +34,16 @@
 
 
 
-| Lenguaje   | Nivel |
-| ---------- | ------|
-| C++        | ⭐⭐⭐⭐⭐ |
-| Java       | ⭐⭐⭐⭐  |
-| Php        | ⭐⭐⭐   |
-| Dart       | ⭐⭐⭐   |
-| JavaScript | ⭐⭐⭐   |
-| Python     | ⭐⭐⭐   |
-| HTML/CSS   | ⭐⭐⭐⭐  | 
+| Lenguajes      | Nivel | Frameworks        | Nivel | Base de Datos | Nivel | Tipos Proyectos | Nivel |
+| -------------- | ------| ----------------- | ------| ------------- | ------| --------------- | ------|
+| C++            | ⭐⭐⭐⭐⭐ | .Net              | ⭐⭐⭐⭐⭐ | MySql         | ⭐⭐⭐⭐⭐ | Webs            | ⭐⭐⭐⭐⭐ |
+| Java           | ⭐⭐⭐⭐  | .Net Framework    | ⭐⭐⭐⭐  | SqlServer     | ⭐⭐⭐⭐⭐ | Consola         | ⭐⭐⭐⭐⭐ |
+| Php            | ⭐⭐⭐   | React             | ⭐⭐⭐   | Oracle        | ⭐⭐⭐   | Video Juegos    | ⭐⭐⭐   |
+| Dart           | ⭐⭐⭐   | Spring boot       | ⭐⭐⭐   | Spring boot   | ⭐⭐⭐   | Android         | ⭐⭐⭐   |
+| JavaScript     | ⭐⭐⭐   | Flutter           | ⭐⭐⭐   | Cloud         | ⭐⭐    |                 |        |
+| Python         | ⭐⭐⭐   |                   |        |               |        |                 |        |
+| HTML/CSS       | ⭐⭐⭐⭐  |                   |        |               |        |                 |        |
 
-
-| Framework      | Nivel |
-| -------------- | ------|
-| .Net           | ⭐⭐⭐⭐⭐ |
-| .Net Framework | ⭐⭐⭐⭐  |
-| React          | ⭐⭐⭐   |
-| Spring boot    | ⭐⭐⭐   |
-| Flutter        | ⭐⭐⭐   |
-
-| Base de Datos | Nivel |
-| ------------- | ------|
-| MySql         | ⭐⭐⭐⭐⭐ |
-| SqlServer     | ⭐⭐⭐⭐⭐ |
-| Oracle        | ⭐⭐⭐   |
-| Spring boot   | ⭐⭐⭐   |
-| Cloud         | ⭐⭐  |
-
-
-| Tipos Proyectos | Nivel |
-| -------------- | ------|
-| Webs           | ⭐⭐⭐⭐⭐ |
-| Consola        | ⭐⭐⭐⭐⭐ |
-| Video Juegos   | ⭐⭐⭐   |
-| Android        | ⭐⭐⭐   |
 
 
 
