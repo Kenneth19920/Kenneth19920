@@ -1,8 +1,8 @@
-<h1> Bienvenido a mi GitHub </h1> 
+<h1> Bienvenido Repositorios de GitHub </h1> 
 
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
-<img src="https://i0.wp.com/windowsaplicaciones.com/wp-content/uploads/2019/04/Gifs-Animados-en-Windows-10.gif?fit=641%2C362&ssl=1" >
+<img src="https://i.pinimg.com/originals/bf/b9/4e/bfb94e54c45afd24384db5ad32d71d15.gif" >
 
 </br>
 
