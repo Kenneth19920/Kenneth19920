@@ -3,7 +3,7 @@
 ¡Aquí está mi increíble refugio de proyectos! 🚀 Bienvenido a un lugar lleno de innovación y creatividad, donde podrás explorar todos mis proyectos destacados. 💼</br>
 
 <p align="center">
- <img width="200px" src="https://i.imgur.com/0kvtMLE.gif" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://i.imgur.com/0kvtMLE.gif" align="center"/>
 </p>
 
 <h2 align="center">Explorando pasiones y habilidades:</h2>
