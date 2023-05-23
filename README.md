@@ -21,7 +21,8 @@
 - 🔒💻 Además, amo la ciberseguridad y considero que es fundamental proteger los sistemas y datos en el mundo digital actual.. 
 - 🥋💥 Fuera del ámbito tecnológico, mi pasión es el taekwondo y los videojuegos. 🎮 Practicar taekwondo me ayuda a mantenerme en forma y a desarrollar disciplina y autocontrol.
 
-<h2 align="center">Conocimiento</h2>
+<h2 align="center"></h2>
+<h3 align="center">Conocimiento</h3>
 
 <div align="center">
 
