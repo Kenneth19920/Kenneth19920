@@ -13,7 +13,7 @@
 
 
 <h2 align="center"></h2>
-<h3 align="center">Explorando pasiones y habilidades:</h3>
+<h3 align="center"> Pasiones y Estudios:</h3>
 <br>
 
 - 🎓 Actualmente estudio Ingeniería en Sistemas de Computación en la Universidad Fidelitas. 
@@ -52,10 +52,6 @@
 
 
 </div>
-
-
-
-
 
 
 
