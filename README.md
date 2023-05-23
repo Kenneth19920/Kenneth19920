@@ -4,19 +4,16 @@
 
 <p align="center">
  <img width="200px" src="https://i.imgur.com/0kvtMLE.gif" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
 
-
-
+<h2 align="center">Explorando pasiones y habilidades:</h2>
 
 </br>
 
 - 🎓 Actualmente estudio Ingeniería en Sistemas de Computación en la Universidad Fidelitas. 
 - 🌐 Me encantaría explorar el emocionante mundo del desarrollo fullstack para ampliar mis habilidades en programación. 💪
 - 🔒💻 Además, amo la ciberseguridad y considero que es fundamental proteger los sistemas y datos en el mundo digital actual.. 
-- 🥋💥 Fuera del ámbito tecnológico, mi pasión es el taekwondo y los videojuegos. 🎮 Practicar taekwondo me ayuda a mantenerme en forma y a desarrollar disciplina y autocontrol..
+- 🥋💥 Fuera del ámbito tecnológico, mi pasión es el taekwondo y los videojuegos. 🎮 Practicar taekwondo me ayuda a mantenerme en forma y a desarrollar disciplina y autocontrol.
 
 <b> ¡Estoy emocionado por las oportunidades que me esperan y ansioso por seguir aprendiendo y creciendo en estos campos! 💡🚀 </b>
 
