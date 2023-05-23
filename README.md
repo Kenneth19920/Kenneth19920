@@ -30,8 +30,6 @@
 | Ciberseguridad | ⭐⭐⭐⭐   |
 | Gestión        | ⭐⭐⭐⭐   |
 
-</div>
-
 
 <table>
   <tr>
@@ -110,7 +108,7 @@
 
 
 
-
+</div>
 
 
 
