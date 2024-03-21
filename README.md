@@ -11,15 +11,8 @@
 </p>
 
 
-
-<h2 align="center">Pasiones y Estudios 💻🌐</h2>
-<br>
 <br>
 
-- 🎓 Actualmente estudio Ingeniería en Sistemas de Computación en la Universidad Fidelitas. 
-- 🌐 Me encantaría explorar el emocionante mundo del desarrollo fullstack para ampliar mis habilidades en programación. 💪
-- 🔒💻 Además, amo la ciberseguridad y considero que es fundamental proteger los sistemas y datos en el mundo digital actual.. 
-- 🥋💥 Fuera del ámbito tecnológico, mi pasión es el taekwondo y los videojuegos. 🎮 Practicar taekwondo me ayuda a mantenerme en forma y a desarrollar disciplina y autocontrol.
 <br>
 <h2 align="center">Conocimientos 💻 </h2>
 
